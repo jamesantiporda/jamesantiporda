@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am James Antiporda, an Ateneo de Manila University graduate with degrees in BS Computer Science and BS Digital Game Design and Development.
+
+🎮 I currently focus on Game Development, mainly using Unity and C#. I have made multiple games during my undergraduate, with two major games for my undergraduate thesis and capstone project. I have also made some games for game jams and personal projects to increase my skills in programming and game development. I have experience in using Unity, C#, and C++ to create games.
+
+🎥 I also work in Blender for 3D animation and 3D modeling, which I use in my 3D games and demos. I mostly focus on character animation, such as movement and combat animations.
+
+🎹 I also love music and can play the piano. I used my interest in music and piano in some of my programming projects, such as a reactive LED that reacts when a keyboard is played, a Drum MIDI visualizer, and a music controlled shoot 'em up game.
 <!--
 **jamesantiporda/jamesantiporda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
